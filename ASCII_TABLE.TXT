@@ -1,0 +1,324 @@
+ASCII Character:         
+ASCII Decimal Notation: 32
+ASCII Hex Notation:     20
+---------------------------
+ASCII Character:        !
+ASCII Decimal Notation: 33
+ASCII Hex Notation:     21
+---------------------------
+ASCII Character:        "
+ASCII Decimal Notation: 34
+ASCII Hex Notation:     22
+---------------------------
+ASCII Character:        #
+ASCII Decimal Notation: 35
+ASCII Hex Notation:     23
+---------------------------
+ASCII Character:        $
+ASCII Decimal Notation: 36
+ASCII Hex Notation:     24
+---------------------------
+ASCII Character:        %
+ASCII Decimal Notation: 37
+ASCII Hex Notation:     25
+---------------------------
+ASCII Character:        &
+ASCII Decimal Notation: 38
+ASCII Hex Notation:     26
+---------------------------
+ASCII Character:        '
+ASCII Decimal Notation: 39
+ASCII Hex Notation:     27
+---------------------------
+ASCII Character:        (
+ASCII Decimal Notation: 40
+ASCII Hex Notation:     28
+---------------------------
+ASCII Character:        )
+ASCII Decimal Notation: 41
+ASCII Hex Notation:     29
+---------------------------
+ASCII Character:        *
+ASCII Decimal Notation: 42
+ASCII Hex Notation:     2a
+---------------------------
+ASCII Character:        +
+ASCII Decimal Notation: 43
+ASCII Hex Notation:     2b
+---------------------------
+ASCII Character:        ,
+ASCII Decimal Notation: 44
+ASCII Hex Notation:     2c
+---------------------------
+ASCII Character:        -
+ASCII Decimal Notation: 45
+ASCII Hex Notation:     2d
+---------------------------
+ASCII Character:        .
+ASCII Decimal Notation: 46
+ASCII Hex Notation:     2e
+---------------------------
+ASCII Character:        0
+ASCII Decimal Notation: 48
+ASCII Hex Notation:     30
+---------------------------
+ASCII Character:        1
+ASCII Decimal Notation: 49
+ASCII Hex Notation:     31
+---------------------------
+ASCII Character:        2
+ASCII Decimal Notation: 50
+ASCII Hex Notation:     32
+---------------------------
+ASCII Character:        3
+ASCII Decimal Notation: 51
+ASCII Hex Notation:     33
+---------------------------
+ASCII Character:        4
+ASCII Decimal Notation: 52
+ASCII Hex Notation:     34
+---------------------------
+ASCII Character:        5
+ASCII Decimal Notation: 53
+ASCII Hex Notation:     35
+---------------------------
+ASCII Character:        6
+ASCII Decimal Notation: 54
+ASCII Hex Notation:     36
+---------------------------
+ASCII Character:        7
+ASCII Decimal Notation: 55
+ASCII Hex Notation:     37
+---------------------------
+ASCII Character:        8
+ASCII Decimal Notation: 56
+ASCII Hex Notation:     38
+---------------------------
+ASCII Character:        9
+ASCII Decimal Notation: 57
+ASCII Hex Notation:     39
+---------------------------
+ASCII Character:        :
+ASCII Decimal Notation: 58
+ASCII Hex Notation:     3a
+---------------------------
+ASCII Character:        ;
+ASCII Decimal Notation: 59
+ASCII Hex Notation:     3b
+---------------------------
+ASCII Character:        ?
+ASCII Decimal Notation: 63
+ASCII Hex Notation:     3f
+---------------------------
+ASCII Character:        @
+ASCII Decimal Notation: 64
+ASCII Hex Notation:     40
+---------------------------
+ASCII Character:        A
+ASCII Decimal Notation: 65
+ASCII Hex Notation:     41
+---------------------------
+ASCII Character:        B
+ASCII Decimal Notation: 66
+ASCII Hex Notation:     42
+---------------------------
+ASCII Character:        C
+ASCII Decimal Notation: 67
+ASCII Hex Notation:     43
+---------------------------
+ASCII Character:        D
+ASCII Decimal Notation: 68
+ASCII Hex Notation:     44
+---------------------------
+ASCII Character:        E
+ASCII Decimal Notation: 69
+ASCII Hex Notation:     45
+---------------------------
+ASCII Character:        F
+ASCII Decimal Notation: 70
+ASCII Hex Notation:     46
+---------------------------
+ASCII Character:        G
+ASCII Decimal Notation: 71
+ASCII Hex Notation:     47
+---------------------------
+ASCII Character:        H
+ASCII Decimal Notation: 72
+ASCII Hex Notation:     48
+---------------------------
+ASCII Character:        I
+ASCII Decimal Notation: 73
+ASCII Hex Notation:     49
+---------------------------
+ASCII Character:        J
+ASCII Decimal Notation: 74
+ASCII Hex Notation:     4a
+---------------------------
+ASCII Character:        K
+ASCII Decimal Notation: 75
+ASCII Hex Notation:     4b
+---------------------------
+ASCII Character:        L
+ASCII Decimal Notation: 76
+ASCII Hex Notation:     4c
+---------------------------
+ASCII Character:        M
+ASCII Decimal Notation: 77
+ASCII Hex Notation:     4d
+---------------------------
+ASCII Character:        N
+ASCII Decimal Notation: 78
+ASCII Hex Notation:     4e
+---------------------------
+ASCII Character:        O
+ASCII Decimal Notation: 79
+ASCII Hex Notation:     4f
+---------------------------
+ASCII Character:        P
+ASCII Decimal Notation: 80
+ASCII Hex Notation:     50
+---------------------------
+ASCII Character:        Q
+ASCII Decimal Notation: 81
+ASCII Hex Notation:     51
+---------------------------
+ASCII Character:        R
+ASCII Decimal Notation: 82
+ASCII Hex Notation:     52
+---------------------------
+ASCII Character:        S
+ASCII Decimal Notation: 83
+ASCII Hex Notation:     53
+---------------------------
+ASCII Character:        T
+ASCII Decimal Notation: 84
+ASCII Hex Notation:     54
+---------------------------
+ASCII Character:        U
+ASCII Decimal Notation: 85
+ASCII Hex Notation:     55
+---------------------------
+ASCII Character:        V
+ASCII Decimal Notation: 86
+ASCII Hex Notation:     56
+---------------------------
+ASCII Character:        W
+ASCII Decimal Notation: 87
+ASCII Hex Notation:     57
+---------------------------
+ASCII Character:        X
+ASCII Decimal Notation: 88
+ASCII Hex Notation:     58
+---------------------------
+ASCII Character:        Y
+ASCII Decimal Notation: 89
+ASCII Hex Notation:     59
+---------------------------
+ASCII Character:        Z
+ASCII Decimal Notation: 90
+ASCII Hex Notation:     5a
+---------------------------
+ASCII Character:        a
+ASCII Decimal Notation: 97
+ASCII Hex Notation:     61
+---------------------------
+ASCII Character:        b
+ASCII Decimal Notation: 98
+ASCII Hex Notation:     62
+---------------------------
+ASCII Character:        c
+ASCII Decimal Notation: 99
+ASCII Hex Notation:     63
+---------------------------
+ASCII Character:        d
+ASCII Decimal Notation: 100
+ASCII Hex Notation:     64
+---------------------------
+ASCII Character:        e
+ASCII Decimal Notation: 101
+ASCII Hex Notation:     65
+---------------------------
+ASCII Character:        f
+ASCII Decimal Notation: 102
+ASCII Hex Notation:     66
+---------------------------
+ASCII Character:        g
+ASCII Decimal Notation: 103
+ASCII Hex Notation:     67
+---------------------------
+ASCII Character:        h
+ASCII Decimal Notation: 104
+ASCII Hex Notation:     68
+---------------------------
+ASCII Character:        i
+ASCII Decimal Notation: 105
+ASCII Hex Notation:     69
+---------------------------
+ASCII Character:        j
+ASCII Decimal Notation: 106
+ASCII Hex Notation:     6a
+---------------------------
+ASCII Character:        k
+ASCII Decimal Notation: 107
+ASCII Hex Notation:     6b
+---------------------------
+ASCII Character:        l
+ASCII Decimal Notation: 108
+ASCII Hex Notation:     6c
+---------------------------
+ASCII Character:        m
+ASCII Decimal Notation: 109
+ASCII Hex Notation:     6d
+---------------------------
+ASCII Character:        n
+ASCII Decimal Notation: 110
+ASCII Hex Notation:     6e
+---------------------------
+ASCII Character:        o
+ASCII Decimal Notation: 111
+ASCII Hex Notation:     6f
+---------------------------
+ASCII Character:        p
+ASCII Decimal Notation: 112
+ASCII Hex Notation:     70
+---------------------------
+ASCII Character:        q
+ASCII Decimal Notation: 113
+ASCII Hex Notation:     71
+---------------------------
+ASCII Character:        r
+ASCII Decimal Notation: 114
+ASCII Hex Notation:     72
+---------------------------
+ASCII Character:        s
+ASCII Decimal Notation: 115
+ASCII Hex Notation:     73
+---------------------------
+ASCII Character:        t
+ASCII Decimal Notation: 116
+ASCII Hex Notation:     74
+---------------------------
+ASCII Character:        u
+ASCII Decimal Notation: 117
+ASCII Hex Notation:     75
+---------------------------
+ASCII Character:        v
+ASCII Decimal Notation: 118
+ASCII Hex Notation:     76
+---------------------------
+ASCII Character:        w
+ASCII Decimal Notation: 119
+ASCII Hex Notation:     77
+---------------------------
+ASCII Character:        x
+ASCII Decimal Notation: 120
+ASCII Hex Notation:     78
+---------------------------
+ASCII Character:        y
+ASCII Decimal Notation: 121
+ASCII Hex Notation:     79
+---------------------------
+ASCII Character:        z
+ASCII Decimal Notation: 122
+ASCII Hex Notation:     7a
+---------------------------
