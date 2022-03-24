@@ -1,4 +1,16 @@
+__version__ = "1.0.6"
+__author__ = "bildsben"
+__package__ = "XORc"
+__description__ = "XORc is a simple python package to provide simple XOR encryption using XOR algorithms."
+
 _ASCII_TABLE = [{"char":" ","dec":32,"hex":"20"},{"char":"!","dec":33,"hex":"21"},{"char":"\"","dec":34,"hex":"22"},{"char":"#","dec":35,"hex":"23"},{"char":"$","dec":36,"hex":"24"},{"char":"%","dec":37,"hex":"25"},{"char":"&","dec":38,"hex":"26"},{"char":"'","dec":39,"hex":"27"},{"char":"(","dec":40,"hex":"28"},{"char":")","dec":41,"hex":"29"},{"char":"*","dec":42,"hex":"2a"},{"char":"+","dec":43,"hex":"2b"},{"char":",","dec":44,"hex":"2c"},{"char":"-","dec":45,"hex":"2d"},{"char":".","dec":46,"hex":"2e"},{"char":"0","dec":48,"hex":"30"},{"char":"1","dec":49,"hex":"31"},{"char":"2","dec":50,"hex":"32"},{"char":"3","dec":51,"hex":"33"},{"char":"4","dec":52,"hex":"34"},{"char":"5","dec":53,"hex":"35"},{"char":"6","dec":54,"hex":"36"},{"char":"7","dec":55,"hex":"37"},{"char":"8","dec":56,"hex":"38"},{"char":"9","dec":57,"hex":"39"},{"char":":","dec":58,"hex":"3a"},{"char":";","dec":59,"hex":"3b"},{"char":"?","dec":63,"hex":"3f"},{"char":"@","dec":64,"hex":"40"},{"char":"A","dec":65,"hex":"41"},{"char":"B","dec":66,"hex":"42"},{"char":"C","dec":67,"hex":"43"},{"char":"D","dec":68,"hex":"44"},{"char":"E","dec":69,"hex":"45"},{"char":"F","dec":70,"hex":"46"},{"char":"G","dec":71,"hex":"47"},{"char":"H","dec":72,"hex":"48"},{"char":"I","dec":73,"hex":"49"},{"char":"J","dec":74,"hex":"4a"},{"char":"K","dec":75,"hex":"4b"},{"char":"L","dec":76,"hex":"4c"},{"char":"M","dec":77,"hex":"4d"},{"char":"N","dec":78,"hex":"4e"},{"char":"O","dec":79,"hex":"4f"},{"char":"P","dec":80,"hex":"50"},{"char":"Q","dec":81,"hex":"51"},{"char":"R","dec":82,"hex":"52"},{"char":"S","dec":83,"hex":"53"},{"char":"T","dec":84,"hex":"54"},{"char":"U","dec":85,"hex":"55"},{"char":"V","dec":86,"hex":"56"},{"char":"W","dec":87,"hex":"57"},{"char":"X","dec":88,"hex":"58"},{"char":"Y","dec":89,"hex":"59"},{"char":"Z","dec":90,"hex":"5a"},{"char":"a","dec":97,"hex":"61"},{"char":"b","dec":98,"hex":"62"},{"char":"c","dec":99,"hex":"63"},{"char":"d","dec":100,"hex":"64"},{"char":"e","dec":101,"hex":"65"},{"char":"f","dec":102,"hex":"66"},{"char":"g","dec":103,"hex":"67"},{"char":"h","dec":104,"hex":"68"},{"char":"i","dec":105,"hex":"69"},{"char":"j","dec":106,"hex":"6a"},{"char":"k","dec":107,"hex":"6b"},{"char":"l","dec":108,"hex":"6c"},{"char":"m","dec":109,"hex":"6d"},{"char":"n","dec":110,"hex":"6e"},{"char":"o","dec":111,"hex":"6f"},{"char":"p","dec":112,"hex":"70"},{"char":"q","dec":113,"hex":"71"},{"char":"r","dec":114,"hex":"72"},{"char":"s","dec":115,"hex":"73"},{"char":"t","dec":116,"hex":"74"},{"char":"u","dec":117,"hex":"75"},{"char":"v","dec":118,"hex":"76"},{"char":"w","dec":119,"hex":"77"},{"char":"x","dec":120,"hex":"78"},{"char":"y","dec":121,"hex":"79"},{"char":"z","dec":122,"hex":"7a"}]
+
+
+#begin code
+#begin code
+#begin code
+#begin code
+#begin code
 
 def Bin_To_Dec(val):
     try:
