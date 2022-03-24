@@ -60,9 +60,6 @@ class Modules:
         dat = str(dat)
         key = str(key)
 
-        print(dat)
-        print(key)
-
         datlist = list(dat)
         keylist = list(key)
 
@@ -132,10 +129,3 @@ class Modules:
             return (res, key)
         else:
             exit("Error: Modules._XCRYPT was not provided a valid mode. Please select encrypt or decrypt.")
-
-if __name__ == "__main__":
-    message, key = Modules._XCRYPT(data="Hi.", mode="encrypt")
-    print(f"Message: {message}\nKey: {key}")
-
-    messagedec, key = Modules._XCRYPT(data=message, key=key, mode="decrypt")
-    print(f"Message Decoded: {messagedec}")
