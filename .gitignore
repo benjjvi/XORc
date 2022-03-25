@@ -1,2 +1,4 @@
 /__pycache__
 /TESTS
+/src/build
+/src/dist

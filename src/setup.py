@@ -12,7 +12,7 @@ print(find_packages())
 # This call to setup() does all the work
 setup(
     name="XORc",
-    version="1.0.6",
+    version="1.0.8",
     description="XORc is a simple python package to provide simple XOR encryption using XOR algorithms.",
     long_description=README,
     long_description_content_type="text/markdown",
